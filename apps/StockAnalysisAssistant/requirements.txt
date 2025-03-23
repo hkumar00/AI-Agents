@@ -1,0 +1,8 @@
+streamlit
+pandas
+loguru
+ollama
+python-dotenv
+yfinance
+numpy
+ta
